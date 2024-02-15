@@ -132,8 +132,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# vscode
-.vscode/
 output/
 outputs/
 subs/
@@ -144,3 +142,6 @@ grounding/version.py
 
 vis/
 tmp/
+
+data/
+weights/
